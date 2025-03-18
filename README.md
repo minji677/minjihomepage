@@ -18,6 +18,11 @@
 
 B형입니다
 
+# search 개발
+
+- 이슈 등록
+- 브랜치 생성
+
 # footer
 
 - footer 추가
